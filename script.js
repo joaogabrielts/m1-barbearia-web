@@ -16,7 +16,7 @@ const barbearia = {
     ],
     estaAberto: true,
 };
-  
+  console.log('oooo');
   
 function buscaCortePorId(id) {
 }
